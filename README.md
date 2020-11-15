@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm &delta;&epsilon;&gamma;!
 
 ## I'm a former Chef 👩‍🍳 turned Full stack Developer 🖥️! 
----
 
 - 🔭 I’m currently working on understanding what it truly means to be in webdev
 - 🌱 I’m currently learning the MERN stack!
@@ -13,6 +12,8 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/seykoplik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="http:seykoplik.herokuapp.com" target="blank">Heroku Portfolio</a>
 
 ### Tech Skills
 
