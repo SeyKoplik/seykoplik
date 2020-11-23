@@ -11,10 +11,7 @@
 - ⚡ Things I enjoy: Cooking, traveling, learning new things in the world of Web Development! 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/seykoplik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-
-<a href="https://seykoplik.github.io/" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/seykoplik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://seykoplik.github.io/" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>   <a href="https://seykoplik.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> </a>
 
 
 ### Tech Skills
