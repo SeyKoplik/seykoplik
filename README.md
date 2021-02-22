@@ -2,13 +2,13 @@
 
 ## I'm a former Chef 👩‍🍳 turned Full stack Developer 🖥️! 
 
-- 🔭 I’m currently working on understanding what it truly means to be in webdev
-- 🌱 I’m currently learning the MERN stack!
-- 🤔 I’m looking for help with applying my new learned knowledge in web development and expanding my horizon.
-- 💬 Ask me about my journey into transitioning careers
+- 🔭 I’m currently working on expanding my portfolio and exploring taking on freelance work.
+- 🌱 I’m currently learning the fundamentals of JavaScript and more about Data Structures and Algorithms.
+- 🤔 I’m looking for help with collaborations on volunteer projects.
+- 💬 Ask me about my journey into transitioning careers.
 - 📫 How to reach me: sey.koplik@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Things I enjoy: Cooking, traveling, learning new things in the world of Web Development! 
+- ⚡ Things I enjoy: Cooking, traveling, learning new things in the world of coding! 
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/seykoplik/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://seykoplik.github.io/" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>   <a href="https://seykoplik.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> </a>
